@@ -1,8 +1,8 @@
 import requests
 import time
 
-TELEGRAM_TOKEN = "IDE_IRD_A_BOT_TOKENED"
-CHAT_ID = "IDE_IRD_A_CHAT_ID"
+TELEGRAM_TOKEN = "8536751491:AAGL-tHAopsb_4P1-DjFFau2F6bYkRKccSQ"
+CHAT_ID = "7419789130"
 
 URL = "https://skinport.com/api/items"
 
